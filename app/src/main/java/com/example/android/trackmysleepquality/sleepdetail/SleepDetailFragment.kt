@@ -28,7 +28,6 @@ import com.example.android.trackmysleepquality.R
 import com.example.android.trackmysleepquality.database.SleepDatabase
 import com.example.android.trackmysleepquality.databinding.FragmentSleepDetailBinding
 
-
 /**
  * A simple [Fragment] subclass.
  * Activities that contain this fragment must implement the
